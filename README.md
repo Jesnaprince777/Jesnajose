@@ -5,7 +5,8 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Aspiring Cyber Security Analyst with experience as an IT Support Technician and Network Engineer, specializing in security policy implementation and network security. Successfully improved organizational security posture by 25% through policy enhancements and implemented BitLocker encryption on 500+ devices. Holds ISC2 CC certification and a strong foundation in cybersecurity principles, eager to leverage skills to enhance security measures and protect organizational assets.
+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
